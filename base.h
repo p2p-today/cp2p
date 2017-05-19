@@ -13,11 +13,11 @@
 #include <time.h>
 #include <stdio.h>
 #include <string.h>
-#include "../c_src/sha/sha2.h"
-#include "../c_src/SubnetStruct.h"
-#include "../c_src/InternalMessageStruct.h"
-#include "../c_src/base.h"
-#include "BaseConverter.h"
+#include "c2p/sha/sha2.h"
+#include "c2p/SubnetStruct.h"
+#include "c2p/InternalMessageStruct.h"
+#include "c2p/base.h"
+#include "c2p/BaseConverter.h"
 
 using namespace std;
 
